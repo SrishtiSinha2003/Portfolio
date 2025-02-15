@@ -7,7 +7,7 @@ It is built using HTML, CSS, and JavaScript.
 
 ## About
 
-This portfolio website serves as a personal showcase of my skills and projects. 
+This portfolio website serves as a personal showcase of my skills and projects.
 <br>
 Here, you can find examples of my work, including web applications, designs, and any other relevant projects. 
 <br>
