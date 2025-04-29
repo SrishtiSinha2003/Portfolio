@@ -3,7 +3,7 @@ You can check my portfolio at: https://portfolio-s68.vercel.app/
 
 Welcome to my portfolio website! This is a showcase of my work and projects as a web developer. 
 <br>
-It is built using HTML, CSS, and JavaScript.
+It is built using HTML, CSS, and JavaScript. 
 
 ## About
 
