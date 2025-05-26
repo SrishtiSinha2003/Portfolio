@@ -1,13 +1,13 @@
-You can check my portfolio at: https://portfolio-w96i.vercel.app/
+You can check my portfolio at: https://portfolio-s68.vercel.app/
 # My Portfolio Website
 
 Welcome to my portfolio website! This is a showcase of my work and projects as a web developer. 
 <br>
-It is built using HTML, CSS, and JavaScript.
+It is built using HTML, CSS, and JavaScript. 
 
 ## About
 
-This portfolio website serves as a personal showcase of my skills and projects. 
+This portfolio website serves as a personal showcase of my skills and projects.
 <br>
 Here, you can find examples of my work, including web applications, designs, and any other relevant projects. 
 <br>
